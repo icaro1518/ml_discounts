@@ -161,6 +161,10 @@ cython_debug/
 
 # Carpeta data
 /data
+/old_data
 
 # Archivo de ídeas sobre el proyecto
-ideas.txt
+ideas.md
+
+# Carpeta con secrets para uso de API MercadoLibre
+secrets/
